@@ -1,0 +1,8 @@
+<div class="view">
+  <input class="toggle" type="checkbox" {{#if done}}checked="checked"{{/if}} />
+  <label class="{{#if done}}line-through text-muted{{/if}}">{{title}}</label>
+  <span class="glyphicon glyphicon-remove pull-right destroy"></span>
+</div>
+<div>
+  {{describe}}
+</div>

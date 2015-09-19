@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "here is your database password",
+    "database": "todo",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "option": {}
+  },
+  "test": {
+    "username": "root",
+    "password": "here is your database password",
+    "database": "todo",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "option": {}
+  },
+  "production": {
+    "username": "root",
+    "password": "here is your database password",
+    "database": "todo",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "option": {}
+  }
+}

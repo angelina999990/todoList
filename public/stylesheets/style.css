@@ -1,0 +1,15 @@
+body {
+  background-color: #fff;
+}
+body .container header {
+  background-color: #fff;
+}
+body .container #main {
+  margin-top: 50px;
+}
+body .container #main li.list-group-item:hover {
+  background-color: #eee;
+}
+body .container #main .line-through {
+  text-decoration: line-through;
+}
