@@ -1,6 +1,7 @@
 sendtxt.js
 checktoken.js
 test.js
+config/config.json
 
 # exclude everything in /node_modules directory
 /node_modules
